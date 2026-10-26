@@ -6,7 +6,7 @@ The Streamlit application displays movie posters, descriptions, release years, a
 
 ## Live Demo
 
-**[Try ReelFind](https://movierecommendationsystem-p3muw2rldv8zv4sqgaqnhq.streamlit.app/)**
+**[Try COSINE.CINEMA](https://movierecommendationsystem-p3muw2rldv8zv4sqgaqnhq.streamlit.app/)**
 
 ## Screenshots
 
