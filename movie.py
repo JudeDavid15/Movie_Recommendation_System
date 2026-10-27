@@ -163,7 +163,7 @@ num_recommendations = st.slider(
     min_value=5,
     max_value=20,
     value=5,
-    step=2
+    step=1
 )
 selected_movie = st.selectbox('Select movies', movie['names'].values)
 
